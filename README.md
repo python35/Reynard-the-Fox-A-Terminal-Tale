@@ -1,7 +1,7 @@
 # Reynard the Fox: A Terminal Tale
 
 <div align="center">
-  <img src="assets/DeVos.png" width="1200">
+  <img src="DeVos.png" width="1200">
 </div>
 
 
