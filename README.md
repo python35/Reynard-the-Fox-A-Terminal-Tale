@@ -14,8 +14,8 @@ To enjoy the story of Reynard, follow these simple steps:
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/reynard-the-fox.git](https://github.com/YOUR_USERNAME/reynard-the-fox.git)
-    cd reynard-the-fox
+    git clone https://github.com/python35/Reynard-the-Fox-A-Terminal-Tale.git
+    cd Reynard-the-Fox-A-Terminal-Tale
     ```
     (Replace `YOUR_USERNAME` with your actual GitHub username.)
 
