@@ -1,5 +1,10 @@
 # Reynard the Fox: A Terminal Tale
 
+<div align="center">
+  <img src="assets/DeVos.png" width="1200">
+</div>
+
+
 ---
 
 Welcome to **Reynard the Fox**, a simple Python project that brings the classic European folktale to your terminal! Immerse yourself in the cunning adventures of Reynard as you follow his escapades and interactions with other animals.
